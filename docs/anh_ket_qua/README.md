@@ -39,3 +39,4 @@ viên; bằng chứng Git local của mẫu giảng viên không thay bước n�
 
 Không tạo ảnh repo, URL, commit hoặc kết quả clone giả. Khi mã/test/input
 thay đổi và ảnh hưởng kết quả, chạy lại phần liên quan rồi cập nhật bằng chứng.
+
