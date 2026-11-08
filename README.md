@@ -80,3 +80,4 @@ Không đưa token/mật khẩu vào repo hoặc báo cáo.
 ## Quy ước nộp Classroom
 
 Báo cáo ghi SHA C của mã/test/input dùng tạo kết quả và permalink tại C. Sau khi thêm ảnh/báo cáo, chốt SHA S rồi ghi S trong ThongTinNop.txt nộp rời trên Classroom. Không đưa hash của chính commit vào tệp thuộc commit đó. Nộp đủ Word, PDF, ZIP mã và TXT đúng tên theo `00_HUONG_DAN_SINH_VIEN.html` trong gói phát cho lớp.
+
