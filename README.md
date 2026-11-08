@@ -1,4 +1,4 @@
-# [MÃ ĐỀ TÀI] — [TÊN ĐỀ TÀI ĐƯỢC GIAO]
+# [DT086] — [CHÈN VÀ TÌM KIẾM TRONG CÂY NHỊ PHÂN TIM KIẾM]
 
 **Khung chưa có thuật toán và chưa có test đạt.** Các lệnh demo/test hiện dừng ở
 lỗi TODO có chủ đích. Không ghi “đã hoàn thành”, “Pass” hoặc dùng số kiểm tra của
@@ -6,11 +6,11 @@ mẫu BFS cho đề tài của mình. Chỉ hoàn thành sau khi thay đúng log
 
 ## Thông tin và căn cứ
 
-- Họ tên, MSSV, lớp: `[ĐIỀN]`.
-- Mã và tên đề tài đúng trong danh sách: `[ĐIỀN]`.
+- Họ tên, MSSV, lớp: `[Nguyễn Quang Trường, N24DCDT103, D24CQDT01-N]`.
+- Mã và tên đề tài đúng trong danh sách: `[DT086 - CHÈN VÀ TÌM KIẾM TRONG CÂY NHỊ PHÂN TÌM KIẾM]`.
 - Giáo trình: `Giao-trinh-Cau-truc-du-lieu-va-Giai-thuat-INT1306.pdf`.
 - Chương, mục, bài tập, trang in và trang PDF đúng đề: `[ĐIỀN SAU KHI ĐỐI CHIẾU]`.
-- URL GitHub thật: `[ĐIỀN]`; SHA chạy C ghi trong báo cáo và TXT nộp rời.
+- URL GitHub thật: `[https://github.com/quangtruong15072006-star]`; SHA chạy C ghi trong báo cáo và TXT nộp rời.
 - Permalink tệp thuật toán tại C: ghi trong báo cáo/TXT; phiên bản Julia: `[ĐIỀN]`.
 
 ## Việc phải thay trước khi nộp
